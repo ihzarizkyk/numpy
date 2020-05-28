@@ -11,6 +11,12 @@ perkalian_biasa = matriksA*matriksB
 perkalian_matriks1 = np.dot(matriksA,matriksB)
 perkalian_matriks2 = matriksA.dot(matriksB)
 
+print("Matriks A :")
+print(matriksA)
+
+print("Matriks B :")
+print(matriksB)
+
 print("Perkalian Biasa Matriks : ")
 print(perkalian_biasa)
 
@@ -23,12 +29,22 @@ print(perkalian_matriks2)
 '''
 Output :
 
+Matriks A :
+[[1 2]
+ [2 1]]
+
+Matriks B :
+[[2 2]
+ [1 1]]
+
 Perkalian Biasa Matriks : 
 [[2 4]
  [2 1]]
+
 Perkalian Matriks Cara 1 : 
 [[4 4]
  [5 5]]
+
 Perkalian Matriks Cara 2 : 
 [[4 4]
  [5 5]]
