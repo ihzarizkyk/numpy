@@ -7,3 +7,4 @@ tersedia banyak Fungsi - fungsi yang berguna untuk pengolahan data Array. Selain
 yang Open Sources (GRATIS)
 
 **Website Resmi NumPy :** [numpy.org](https://numpy.org/)
+**Install PIP NumPy :** [PIP NumPy](https://pypi.org/project/numpy/)
