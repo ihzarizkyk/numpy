@@ -1,5 +1,7 @@
 # NumPy 
 
+![logo numpy](https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg)
+
 ### Mengenai NumPy :
 
 NumPy Merupakan Library Python yang digunakan untuk Perhitungan dan Pengolahan Angka Array. Dalam Library NumPy 
