@@ -1,6 +1,6 @@
 # NumPy 
 
-![logo numpy](https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg)
+![logo numpy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FTJRJhJw_rougier-numpy-logo-name-below-02-python-numpy%2F&psig=AOvVaw2qgcbqWaMtNBH47ebC2xxP&ust=1593331248609000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi3n83DoeoCFQAAAAAdAAAAABAJ)
 
 ### Mengenai NumPy :
 
